@@ -1,20 +1,14 @@
-# Group - chatting Application :  Together
+# Together : Group - chatting Application 
 
 This real-time chatting mobile application lets you chat with your tribe / group seamlessly. And can run on both Android & iOS
 
-### Home screen:
+### Home Screen , Registration Page & Login Page:
 
-![Screenshot_20221027-175729](https://user-images.githubusercontent.com/112348271/198371726-5b57d49e-748f-45be-a09b-ec57bba5870c.jpg)
+![Picsart_22-10-28_00-28-14-446](https://user-images.githubusercontent.com/112348271/198376446-0cb5408d-86c6-4151-bd77-5f83e55cf19a.jpg)
 
-### Login Page:
+### Demo of working:
 
-![Screenshot_20221027-175733](https://user-images.githubusercontent.com/112348271/198371764-b5188991-e5d5-440d-a5b1-d99081631b79.jpg)
-
-### Registration Page:
-
-![Screenshot_20221027-175737](https://user-images.githubusercontent.com/112348271/198371801-04e60c90-8814-492a-89d2-046d7226c5f2.jpg)
-
-### Working:
+https://user-images.githubusercontent.com/112348271/198376886-f0c88b47-ad30-4417-be5c-3a04653a9e2b.mp4
 
 
 ### Made with : Flutter, Google Firebase
