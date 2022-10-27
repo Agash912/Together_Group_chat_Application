@@ -1,6 +1,6 @@
 # Together : Group - chatting Application 
 
-This real-time chatting mobile application lets you chat with your tribe / group seamlessly. And can run on both Android & iOS
+This real-time chatting mobile application lets you chat with your tribe / group seamlessly. And can run on both Android & iOS, so that you don't miss our on connecting with your friends!
 
 ### Home Screen , Registration Page & Login Page:
 
