@@ -11,4 +11,4 @@ This real-time chatting mobile application lets you chat with your tribe / group
 https://user-images.githubusercontent.com/112348271/198376886-f0c88b47-ad30-4417-be5c-3a04653a9e2b.mp4
 
 
-### Made with : Flutter, Google Firebase
+### Made with : Flutter, Google Firebase and ❤️
